@@ -1,18 +1,38 @@
-👋 Hi, I’m Ritesh Kumar, a passionate developer interested in web development and problem-solving using Data Structures and Algorithms (DSA).
+<div align="center">
+  <h1>👋 Hi, I'm Ritesh Kumar</h1>
+  <h3>Passionate Developer | Problem Solver | Lifelong Learner</h3>
+</div>
 
-👀 I have knowledge of Node.js, React.js, MongoDB, and backend development. I'm proficient in building scalable web applications and RESTful APIs.
+### About Me
+- 👨‍💻 Backend Developer
+- 🌱 Currently learning MERN Stack and DSA
+- 💼 Open to collaboration and new opportunities
+- 📚 Always eager to learn and explore new technologies
 
-🌱 Currently, I'm focused on mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack and enhancing my understanding of DSA to become a more proficient developer.
+### Skills
+- 💻 JavaScript | HTML | CSS
+- 🚀 Node.js | Express.js | React.js
+- 📦 MongoDB | MySQL | Firebase
+- ⚙️ RESTful APIs | Websockets
+- 🧠 Data Structures | Algorithms
 
-💼 I have experience working on various projects, including e-commerce platforms, social media applications, and content management systems.
+### Projects
+- 🛒 Expanse Tracker
+- 📱 Sign Lnaguage
+  
 
-🔭 I’m constantly exploring new technologies and frameworks to stay updated with the latest trends in web development.
+### Interests
+- 🔭 Exploring new technologies and frameworks
+- 📚 Continuous learning and personal development
+- 🤝 Connecting with fellow developers and tech enthusiasts
 
-📚 Apart from technical skills, I'm also interested in continuous learning and personal development. I regularly participate in online courses to expand my knowledge and improve my skills.
+### Get in Touch
+- 📫 Email: rite2379@gmail.com
+- 🔗 LinkedIn: [Ritesh Kumar](https://www.linkedin.com/in/your-linkedin-profile/)
+- 🐦 Twitter: [@RiteshK95219683]([https://twitter.com/your-twitter-handle](https://twitter.com/RiteshK95219683)](https://www.linkedin.com/in/ritesh-kumar-353796223/))
 
-📫 Feel free to reach out to me at rite2379@gmail.com if you have any questions, suggestions, or opportunities to collaborate.
-
-😄 Pronouns: he/him
+### Pronouns
+- 😄 He/Him
 
 <!---
 Ritesh1244/Ritesh1244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
