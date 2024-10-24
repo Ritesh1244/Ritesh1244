@@ -19,6 +19,7 @@
 ### Projects
 - 🛒 Expanse Tracker
 - 📱 Sign Lnaguage
+- Task Management
   
 
 ### Interests
