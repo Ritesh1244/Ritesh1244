@@ -4,7 +4,7 @@
 </div>
 
 ### About Me
-- 👨‍💻 Backend Developer
+- 👨‍💻 Full_Stack
 - 🌱 Currently learning MERN Stack and DSA
 - 💼 Open to collaboration and new opportunities
 - 📚 Always eager to learn and explore new technologies
